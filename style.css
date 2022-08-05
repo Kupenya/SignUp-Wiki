@@ -72,7 +72,7 @@ nav .get-started{
   width: 35%;
    
 }
-.contact-forms input, button{
+.contact-forms input{
   width: 641px;
   height: 67px;
   border-radius: 8px;
@@ -98,6 +98,8 @@ section{
     justify-content: center;
 }
 .button{
+    width: 641px;
+    height: 67px;
     display: inline-block;
     text-decoration: none;
     color:#FFFFFF;
