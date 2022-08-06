@@ -105,6 +105,7 @@ section{
     color:#FFFFFF;
     padding: 12px 34px;
     background: #4434A6;
+    border: none;
     border-radius: 12px;
     position: relative;
     cursor: pointer;
@@ -112,6 +113,9 @@ section{
     font-weight: 400;
     font-size: 22px;
     line-height: 120%;
+}
+.button:hover{
+    background: #5745cc;
 }
 
 
